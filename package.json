@@ -12,7 +12,7 @@
     "purifycss"
   ],
   "author": "Christian Lewis <ctjldev@gmail.com>",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE/LICENSE",
   "dependencies": {
     "@octokit/auth-basic": "^1.4.3",
     "@octokit/rest": "^17.4.0",

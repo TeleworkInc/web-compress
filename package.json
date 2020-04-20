@@ -1,6 +1,6 @@
 {
   "name": "web-compress",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool for optimizing and compressing static web pages, focused on performance and load time.",
   "main": "index.js",
   "scripts": {
